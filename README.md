@@ -3,8 +3,8 @@
 ![selenium-logo text-320x132](https://miro.medium.com/max/327/1*pdmSfsPk9iQmSyDFwFfzxQ.png)
 
 ## Intalações necessarias para esse projeto
-Java versão 8 Update 261r ___/
-IntelliJ IDEA Community Edition 2020.14 __/
+Java versão 8 Update 261r ___
+IntelliJ IDEA Community Edition 2020.14 ___
 ChromeDriver
 
 ## Características Selenium WebDriver:
@@ -84,7 +84,7 @@ assertEquals(5, soma);
 	// Fecha a instância do Selenium WebDriver e todas os navegadores associados.
 	driver.quit();
 
-## Instalação através do Gerenciador de dependências Maven: 
+## Instalação através do gerenciador de dependências Maven: 
 
 Utilizei o Maven para facilitar a vida, ele vai cuidar da parte de gerenciamento de dependências. 
 
@@ -118,7 +118,7 @@ Incluir as dependências do WebDriver, do JUnit e do AssertJ no pom.xml como mos
 	<scope>test</scope>
 </dependency>
 
-## Algumas vantagens de se utilizar JUnit:: 
+## Algumas vantagens de se utilizar JUnit:
 Permite a criação rápida de código de teste enquanto possibilita um aumento na qualidade do sistema sendo desenvolvido e testado;
 Não é necessário escrever o próprio framework;
 Amplamente utilizado pelos desenvolvedores da comunidade código-aberto, possuindo um grande número de exemplos;
