@@ -3,8 +3,8 @@
 ![selenium-logo text-320x132](https://miro.medium.com/max/327/1*pdmSfsPk9iQmSyDFwFfzxQ.png)
 
 ## Intalações necessarias para esse projeto
-Java versão 8 Update 261r
-IntelliJ IDEA Community Edition 2020.14
+Java versão 8 Update 261r ___/
+IntelliJ IDEA Community Edition 2020.14 __/
 ChromeDriver
 
 ## Características Selenium WebDriver:
