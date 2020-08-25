@@ -2,12 +2,14 @@
 
 ![selenium-logo text-320x132](https://miro.medium.com/max/327/1*pdmSfsPk9iQmSyDFwFfzxQ.png)
 
+## Intalações necessarias para esse projeto
+Java versão 8 Update 261r
+IntelliJ IDEA Community Edition 2020.14
+ChromeDriver
+
 ## Características Selenium WebDriver:
 
 A API Selenium WebDriver tem como principal objetivo automatizar ações do navegador, tais como submits de formulários, seleções em menus dropdown, digitação em campos texto, varredura de dados em elementos, HTML etc. Para entender melhor seus conceitos, a seguir, detalharemos algumas interfaces e outras classes principais que compõem o Selenium WebDriver.
-
-
-
 
 ## Características JUnit: 
 Origem: Wikipédia, a enciclopédia livre.
