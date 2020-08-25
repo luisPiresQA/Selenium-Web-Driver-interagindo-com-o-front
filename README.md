@@ -1,4 +1,4 @@
-![postman-logo text-320x132](https://miro.medium.com/max/889/1*-yauD1PxgsdiOJQMqnmu1w.jpeg)
+![selenium-logo text-320x132](https://miro.medium.com/max/327/1*pdmSfsPk9iQmSyDFwFfzxQ.png)
 
 
 ## Características: 
