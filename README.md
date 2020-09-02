@@ -26,7 +26,7 @@ O teste de unidade testa o menor dos componentes de um sistema de maneira isolad
 Assert.assertEquals(2, algumMetodo(1));
 
 ## Exemplo de teste usando Selenium e Junit: 
-![](selenium.png)
+![](img/selenium.png)
 
 ## Comandos Selenium WebDriver
 
